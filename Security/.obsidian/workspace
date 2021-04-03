@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "59cb15bd42d45f3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9babf29157e43d2a",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "12./00. Introduction.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "32ebecb639275cf7",
+    "type": "split",
+    "children": [
+      {
+        "id": "18bdad32673c3fe4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7b8e549feb34f89",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "deec21cc40760812",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250
+  },
+  "right": {
+    "id": "7da07b25dec5faba",
+    "type": "split",
+    "children": [
+      {
+        "id": "d680bf40671bd582",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e40eb99a8f1ae83b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "12./00. Introduction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "12./Untitled.md",
+    "11. Modul Implementing Secure Network Protocols/Untitled.md",
+    "11. Modul Implementing Secure Network Protocols/14..md",
+    "11. Modul Implementing Secure Network Protocols/Untitled 1.md",
+    "11. Modul Implementing Secure Network Protocols/08. TRANSPORT LAYER SECURITY.md",
+    "11. Modul Implementing Secure Network Protocols/09. API CONSIDERATIONS.md",
+    "11. Modul Implementing Secure Network Protocols/10. FILE TRANSFER SERVICES.md",
+    "11. Modul Implementing Secure Network Protocols/11. EMAIL SERVICES.md",
+    "11. Modul Implementing Secure Network Protocols/12. SECURE or MULTIPURPOSE INTERNET MAIL EXTENSIONS.md",
+    "11. Modul Implementing Secure Network Protocols/00. Introduction.md"
+  ]
+}
