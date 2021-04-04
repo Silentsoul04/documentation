@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "12. Modul Implementing Host Security Solutions/Untitled.md",
+            "file": "13. Modul Implementing Secure Mobile Solutions/Untitled.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12. Modul Implementing Host Security Solutions/Untitled.md",
+                "file": "13. Modul Implementing Secure Mobile Solutions/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "13. Modul Implementing Secure Mobile Solutions/Untitled.md",
+    "13. Modul Implementing Secure Mobile Solutions/13. BLUETOOTH CONNECTION METHODS.md",
+    "13. Modul Implementing Secure Mobile Solutions/11. CELLULAR AND GPS CONNECTION METHODS.md",
+    "13. Modul Implementing Secure Mobile Solutions/03. IOS IN THE ENTERPRISE.md",
+    "13./Untitled.md",
     "12. Modul Implementing Host Security Solutions/Untitled.md",
     "12. Modul Implementing Host Security Solutions/05. USB AND FLASH DRIVE SECURITY.md",
     "12. Modul Implementing Host Security Solutions/04. DISK ENCRYPTION.md",
     "12./00. Introduction.md",
-    "12./Untitled.md",
-    "11. Modul Implementing Secure Network Protocols/Untitled.md",
-    "11. Modul Implementing Secure Network Protocols/14..md",
-    "11. Modul Implementing Secure Network Protocols/Untitled 1.md",
-    "11. Modul Implementing Secure Network Protocols/08. TRANSPORT LAYER SECURITY.md",
-    "11. Modul Implementing Secure Network Protocols/09. API CONSIDERATIONS.md"
+    "12./Untitled.md"
   ]
 }
