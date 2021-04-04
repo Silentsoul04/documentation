@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "12./00. Introduction.md",
+            "file": "12. Modul Implementing Host Security Solutions/Untitled.md",
             "mode": "source"
           }
         }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250
+    "width": 321
   },
   "right": {
     "id": "7da07b25dec5faba",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12./00. Introduction.md",
+                "file": "12. Modul Implementing Host Security Solutions/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "12. Modul Implementing Host Security Solutions/Untitled.md",
+    "12. Modul Implementing Host Security Solutions/05. USB AND FLASH DRIVE SECURITY.md",
+    "12. Modul Implementing Host Security Solutions/04. DISK ENCRYPTION.md",
+    "12./00. Introduction.md",
     "12./Untitled.md",
     "11. Modul Implementing Secure Network Protocols/Untitled.md",
     "11. Modul Implementing Secure Network Protocols/14..md",
     "11. Modul Implementing Secure Network Protocols/Untitled 1.md",
     "11. Modul Implementing Secure Network Protocols/08. TRANSPORT LAYER SECURITY.md",
-    "11. Modul Implementing Secure Network Protocols/09. API CONSIDERATIONS.md",
-    "11. Modul Implementing Secure Network Protocols/10. FILE TRANSFER SERVICES.md",
-    "11. Modul Implementing Secure Network Protocols/11. EMAIL SERVICES.md",
-    "11. Modul Implementing Secure Network Protocols/12. SECURE or MULTIPURPOSE INTERNET MAIL EXTENSIONS.md",
-    "11. Modul Implementing Secure Network Protocols/00. Introduction.md"
+    "11. Modul Implementing Secure Network Protocols/09. API CONSIDERATIONS.md"
   ]
 }
