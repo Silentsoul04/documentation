@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0c55f1d29c3d5d13",
+        "id": "663c29c5cf4b4633",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "20. Modul Implementing Cybersecurity Resilience/20. DECEPTION AND DISRUPTION STRATEGIES.md",
-            "mode": "source"
+            "file": "21. Modul Explaining Physical Security/15. DATA SANITIZATION TOOLS.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20. Modul Implementing Cybersecurity Resilience/20. DECEPTION AND DISRUPTION STRATEGIES.md",
+                "file": "21. Modul Explaining Physical Security/15. DATA SANITIZATION TOOLS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "20. Modul Implementing Cybersecurity Resilience/Untitled.md",
-    "20. Modul Implementing Cybersecurity Resilience/Untitled 1.md",
-    "20. Modul Implementing Cybersecurity Resilience/Untitled 5.md",
-    "20. Modul Implementing Cybersecurity Resilience/Untitled 4.md",
-    "20. Modul Implementing Cybersecurity Resilience/Untitled 3.md",
-    "20. Modul Implementing Cybersecurity Resilience/Untitled 2.md",
-    "20. Modul Implementing Cybersecurity Resilience/Untitled 6.md",
-    "20. Modul Implementing Cybersecurity Resilience/Untitled 10.md",
-    "20. Modul Implementing Cybersecurity Resilience/10. SNAPSHOTS AND IMAGES.md",
-    "20. Modul Implementing Cybersecurity Resilience/Untitled 8.md"
+    "21. Modul Explaining Physical Security/Untitled 3.md",
+    "21. Modul Explaining Physical Security/Untitled 2.md",
+    "21. Modul Explaining Physical Security/Untitled 1.md",
+    "21. Modul Explaining Physical Security/Untitled.md",
+    "21. Modul Explaining Physical Security/Untitled 10.md",
+    "21. Modul Explaining Physical Security/Untitled 9.md",
+    "21. Modul Explaining Physical Security/Untitled 8.md",
+    "21. Modul Explaining Physical Security/Untitled 7.md",
+    "21. Modul Explaining Physical Security/Untitled 6.md",
+    "21. Modul Explaining Physical Security/Untitled 5.md"
   ]
 }
