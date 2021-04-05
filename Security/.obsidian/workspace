@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "14. Modul Summarizing Secure Application Concepts/Untitled.md",
-            "mode": "source"
+            "file": "15. Modul Implementing Secure Cloud Solutions/30. FOG AND EDGE COMPUTING.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "14. Modul Summarizing Secure Application Concepts/Untitled.md",
+                "file": "15. Modul Implementing Secure Cloud Solutions/30. FOG AND EDGE COMPUTING.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "14. Modul Summarizing Secure Application Concepts/Untitled.md",
-    "14. Modul Summarizing Secure Application Concepts/Untitled 5.md",
-    "14. Modul Summarizing Secure Application Concepts/Untitled 4.md",
-    "14. Modul Summarizing Secure Application Concepts/Untitled 3.md",
-    "14. Modul Summarizing Secure Application Concepts/Untitled 2.md",
-    "14. Modul Summarizing Secure Application Concepts/Untitled 1.md",
-    "14. Modul Summarizing Secure Application Concepts/21. DATA EXPOSURE AND MEMORY MANAGEMENT.md",
-    "14. Modul Summarizing Secure Application Concepts/13. OVERFLOW VULNERABILITIES.md",
-    "14./Untitled.md",
-    "13. Modul Implementing Secure Mobile Solutions/Untitled.md"
+    "15. Modul Implementing Secure Cloud Solutions/30. FOG AND EDGE COMPUTING.md",
+    "15. Modul Implementing Secure Cloud Solutions/29. SOFTWARE-DEFINED VISIBILITY.md",
+    "15. Modul Implementing Secure Cloud Solutions/Untitled 10.md",
+    "15. Modul Implementing Secure Cloud Solutions/Untitled 9.md",
+    "15. Modul Implementing Secure Cloud Solutions/Untitled 8.md",
+    "15. Modul Implementing Secure Cloud Solutions/Untitled 7.md",
+    "15. Modul Implementing Secure Cloud Solutions/Untitled 6.md",
+    "15. Modul Implementing Secure Cloud Solutions/Untitled 5.md",
+    "15. Modul Implementing Secure Cloud Solutions/Untitled 4.md",
+    "15. Modul Implementing Secure Cloud Solutions/Untitled 3.md"
   ]
 }
