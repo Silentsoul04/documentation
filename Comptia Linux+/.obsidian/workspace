@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "a2ec5d78a130b54f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cb1a49eb61edec0",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "05. Modul Managing Files and Directories/10. THE which and whereis COMMAND.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8dfa684e3982cddf",
+    "type": "split",
+    "children": [
+      {
+        "id": "4398d0919da423fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92bb53a94008e86c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2134eb6f4b68a7c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c60cf4c0e9b4394c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8553422bf4770d03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1bba5e512f26a23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "05. Modul Managing Files and Directories/10. THE which and whereis COMMAND.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "05. Modul Managing Files and Directories/Untitled 9.md",
+    "05. Modul Managing Files and Directories/Untitled 8.md",
+    "05. Modul Managing Files and Directories/08. Search for Files.md",
+    "05. Modul Managing Files and Directories/07. THE gedit TEXT EDITOR.md",
+    "05. Modul Managing Files and Directories/Untitled 7.md",
+    "05. Modul Managing Files and Directories/Untitled 6.md",
+    "05. Modul Managing Files and Directories/Untitled 5.md",
+    "05. Modul Managing Files and Directories/Untitled 4.md",
+    "05. Modul Managing Files and Directories/Untitled 3.md",
+    "05. Modul Managing Files and Directories/Untitled 2.md"
+  ]
+}
