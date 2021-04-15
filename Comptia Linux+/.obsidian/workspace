@@ -6,11 +6,10 @@
       {
         "id": "3cb1a49eb61edec0",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "05. Modul Managing Files and Directories/10. THE which and whereis COMMAND.md",
+            "file": "05. Modul Managing Files and Directories/26. THE tee COMMAND.md",
             "mode": "preview"
           }
         }
@@ -69,10 +68,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05. Modul Managing Files and Directories/10. THE which and whereis COMMAND.md",
+                "file": "05. Modul Managing Files and Directories/26. THE tee COMMAND.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -85,16 +86,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "3cb1a49eb61edec0",
   "lastOpenFiles": [
-    "05. Modul Managing Files and Directories/Untitled 9.md",
-    "05. Modul Managing Files and Directories/Untitled 8.md",
-    "05. Modul Managing Files and Directories/08. Search for Files.md",
-    "05. Modul Managing Files and Directories/07. THE gedit TEXT EDITOR.md",
-    "05. Modul Managing Files and Directories/Untitled 7.md",
-    "05. Modul Managing Files and Directories/Untitled 6.md",
-    "05. Modul Managing Files and Directories/Untitled 5.md",
+    "05. Modul Managing Files and Directories/26..md",
+    "05. Modul Managing Files and Directories/25..md",
+    "05. Modul Managing Files and Directories/24..md",
+    "05. Modul Managing Files and Directories/23..md",
+    "05. Modul Managing Files and Directories/22..md",
     "05. Modul Managing Files and Directories/Untitled 4.md",
     "05. Modul Managing Files and Directories/Untitled 3.md",
-    "05. Modul Managing Files and Directories/Untitled 2.md"
+    "05. Modul Managing Files and Directories/Untitled 2.md",
+    "05. Modul Managing Files and Directories/Untitled 1.md",
+    "05. Modul Managing Files and Directories/Untitled.md"
   ]
 }
