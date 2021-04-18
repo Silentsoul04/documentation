@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "05. Modul Managing Files and Directories/26. THE tee COMMAND.md",
-            "mode": "preview"
+            "file": "10./01..md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05. Modul Managing Files and Directories/26. THE tee COMMAND.md",
+                "file": "10./01..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "3cb1a49eb61edec0",
   "lastOpenFiles": [
-    "05. Modul Managing Files and Directories/26..md",
-    "05. Modul Managing Files and Directories/25..md",
-    "05. Modul Managing Files and Directories/24..md",
-    "05. Modul Managing Files and Directories/23..md",
-    "05. Modul Managing Files and Directories/22..md",
-    "05. Modul Managing Files and Directories/Untitled 4.md",
-    "05. Modul Managing Files and Directories/Untitled 3.md",
-    "05. Modul Managing Files and Directories/Untitled 2.md",
-    "05. Modul Managing Files and Directories/Untitled 1.md",
-    "05. Modul Managing Files and Directories/Untitled.md"
+    "10./01..md",
+    "10./00. Introduction.md",
+    "09. Modul Managing Devices/01..md",
+    "09. Modul Managing Devices/Untitled 13.md",
+    "09. Modul Managing Devices/Untitled 4.md",
+    "09. Modul Managing Devices/Untitled 14.md",
+    "09. Modul Managing Devices/Untitled 12.md",
+    "09. Modul Managing Devices/Untitled 11.md",
+    "09. Modul Managing Devices/Untitled 10.md",
+    "09. Modul Managing Devices/Untitled 9.md"
   ]
 }
